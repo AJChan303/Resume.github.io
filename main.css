@@ -30,7 +30,11 @@ body {
   background-attachment: fixed;
 	/* background-image: url("psmi.png");
 	background-repeat: no-repeat;
-  	background-position: right top; */
+	  background-position: right top; */
+	  margin-left: 40px;
+	  margin-right: 40px;
+	  margin-top: 60px;
+
 
 
 }
