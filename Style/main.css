@@ -27,7 +27,7 @@ body {
   background-repeat: no-repeat;
   /* background-position: right top;
   */
-  background-size: auto;
+  background-size: stretch;
   background-attachment: fixed;
 	/* background-image: url("psmi.png");
 	background-repeat: no-repeat;
